@@ -1,0 +1,3 @@
+# Gegevensstructuren en algoritmen: projecten
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Projecten Gegevensstructuren en algoritmen</span> van <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Mathias Van Herreweghe</span> is in licentie gegeven volgens een <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Naamsvermelding-NietCommercieel-GelijkDelen 4.0 Internationaal-licentie</a>.
